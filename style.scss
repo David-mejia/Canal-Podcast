@@ -1,0 +1,22 @@
+@import 'variables.scss';
+
+
+@media (min-width:$celular)  { 
+
+    @import  'style/style480px/style480.scss';
+
+}
+
+@media (min-width:$tablets){
+
+    @import 'style/style767px/style767.scss';
+
+}
+
+@media (min-width:$computadores) {
+
+    @import 'style/style950px/style950.scss';
+   
+
+}
+

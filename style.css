@@ -1,0 +1,15 @@
+@media (min-width: 480px) {
+  body {
+    background-color: #295263; }
+
+  .h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue; } }
+@media (min-width: 767px) {
+  body {
+    background: #f10000; } }
+@media (min-width: 950px) {
+  body {
+    background-color: #f5d48d; } }
+
+/*# sourceMappingURL=style.css.map */
